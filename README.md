@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ciri8" alt="ciri8" /></a> </p>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **a Fullstack Application**
 
 - 💬 Ask me about **Mobile Development, Fullstack Development, Machine learning.**
 
