@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ciri8" alt="ciri8" /></a> </p>
 
-- 🔭 I’m currently working on a [Breast Cancer Prediciton model](https://github.com/Ciri8/Breast_Cancer_Prediction_Model)
+- 🔭 I’m currently working on an app
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on a **open-source machine learning project**
 
