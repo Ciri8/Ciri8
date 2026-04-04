@@ -57,10 +57,20 @@
 
 ---
 
+<h3 align="center">GitHub Trophies</h3>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ciri8&theme=default" alt="ciri8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ciri8&theme=tokyonight&no-frame=true&no-bg=true&column=-1" alt="ciri8 trophies" />
+</p>
+
+---
+
+<h3 align="center">Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ciri8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ciri8 stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ciri8&show_icons=true&locale=en&layout=compact" alt="ciri8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ciri8&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ciri8 top langs" />
 </p>
