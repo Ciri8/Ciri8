@@ -7,7 +7,7 @@
 
 ---
 
-- **Building** [Pairify](https://github.com/Ciri8/Pairify) — an AI-powered matching platform that helps builders find collaborators and mentors based on goals and commitment
+- **Building** [Pairify](https://github.com/Ciri8/Pairify) — a matching platform that helps builders find collaborators and mentors based on goals and commitment
 
 - **AI Engineer** focused on applied ML, LLM integrations, and full-stack product development
 
