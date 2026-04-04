@@ -57,9 +57,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ciri8&show_icons=true&locale=en&theme=default" alt="ciri8" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciri8&" alt="ciri8" />
