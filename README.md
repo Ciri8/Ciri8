@@ -57,9 +57,8 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciri8&" alt="ciri8" />
+  <img src="https://streak-stats.demolab.com/?user=ciri8&theme=default" alt="ciri8" />
 </p>
 
 <p align="center">
