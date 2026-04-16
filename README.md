@@ -7,8 +7,6 @@
 
 ---
 
-- **Building** [Pairify](https://github.com/Ciri8/Pairify) — a matching platform that helps builders find collaborators and mentors based on goals and commitment
-
 - **AI Engineer** focused on applied ML, LLM integrations, and full-stack product development
 
 - **Portfolio** — [samiennaciri.net](https://samiennaciri.net)
@@ -28,16 +26,11 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">Currently Building</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ciri8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ciri8 GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ciri8&theme=tokyonight&hide_border=true" alt="Ciri8 streak" />
-</p>
+**Pairify** — a matching platform that helps builders find collaborators and mentors based on goals and commitment. React Native + Supabase + Apple Sign-In. Shipping to the App Store.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciri8&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Ciri8 top languages" />
-</p>
+**FixerUpperGuru** — multi-agent AI system for house-flip deal analysis. LangGraph orchestrator over three specialist LLM agents (comps, rehab estimation, deal narration) with deterministic Python tools for search and market trends. Provider-agnostic LLM layer, Postgres + pgvector knowledge bases, local-first by default. Currently in the architecture-design phase.
 
 ---
 
